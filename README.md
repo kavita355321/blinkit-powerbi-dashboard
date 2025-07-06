@@ -58,20 +58,18 @@ The goal is to derive data-driven insights using Power BI visualizations and KPI
 
 ## 🧾 Files Included
 
-Blinkit Dashboard/
-├── Blinkit dashboard.pbix # Main Power BI file
-├── Blinkit Data.xlsx # Dataset used for the dashboard
-├── background kpi.png # Background used in the report
-├── README.md # This project documentation
-└── Images/ # Visuals exported from the dashboard
-├── Avg Sales.png
-├── Items.png
-├── rating.png
-└── Sales.png
-
+blinkit-powerbi-dashboard
+→ Blinkit dashboard.pbix
+→ Blinkit Data.xlsx
+→ background kpi.png
+→ README.md
+→ Images
+   → Avg Sales.png
+   → Items.png
+   → rating.png
+   → Sales.png
 
 ---
-
 
 ## 🛠️ Tools Used
 
@@ -92,7 +90,7 @@ Blinkit Dashboard/
 
 ## 👩‍💻 About Me
 
-**Kavita** – Aspiring Data Analyst  
+**Kavita** 
 🎓 BSc Hons. Computer Science | Delhi University  
 📫 Email: kavita355321@gmail.com  
 📍 New Delhi, India
